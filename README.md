@@ -1,7 +1,4 @@
 # MATICES [CSE 101]
-Diwa Ashwini Vittala    
-dashwini
-
 ## Assignment details
 The program Sparse.c takes in an input file containing instructions to build two matrices, A and B, then computes    
 𝐴, 𝐵, 
